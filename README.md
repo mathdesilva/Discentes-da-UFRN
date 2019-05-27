@@ -8,7 +8,7 @@ Nesse trabalho da matéria de Probabilidade, tem-se o intuito de mostrar um pouc
 
 ## Como usar:
 
-* Faça o download deste reposítorio.
+* Faça o download deste repositório.
 * Faça o upload do `.ipynb` para o Google Drive e abra-o usando o [Colaboratory](https://colab.research.google.com/).
 * Faça o upload do dataset `data.xlsx` para o Colaboratory.
 * Clique em `Run All` na aba `Runtime` ou use `Ctrl + F9` para rodar todos os códigos em sequência.
